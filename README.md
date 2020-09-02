@@ -20,19 +20,19 @@ DictionaryServiceDemo>ant jar
  
 \DictionaryServiceDemo\DictionaryDemo>java -cp ..\DictionaryServiceProvider\dist\*;..\GeneralDictionary\dist\*;dist\DictionaryDemo.jar dictionary.DictionaryDemo
 
-book: a set of written or printed pages, usually bound with a protective cover
-editor: a person who edits
-xml: Cannot find definition for this word.
-REST: Cannot find definition for this word.
+book: a set of written or printed pages, usually bound with a protective cover<br>
+editor: a person who edits<br>
+xml: Cannot find definition for this word.<br>
+REST: Cannot find definition for this word.<br>
 
 
  - ExtendedDictionary
 
 \DictionaryServiceDemo\DictionaryDemo>java -cp ..\DictionaryServiceProvider\dist\*;..\ExtendedDictionary\dist\*;dist\DictionaryDemo.jar dictionary.DictionaryDemo
 
-book: Cannot find definition for this word.
-editor: Cannot find definition for this word.
-xml: a document standard often used in web services, among other things
+book: Cannot find definition for this word.<br>
+editor: Cannot find definition for this word.<br>
+xml: a document standard often used in web services, among other things<br>
 REST: an architecture style for creating, reading, updating, and deleting data that attempts to use the common vocabulary of the HTTP protocol; Representational State Transfer
 
 
